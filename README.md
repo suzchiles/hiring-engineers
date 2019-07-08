@@ -39,7 +39,7 @@ Please be sure, when submitting your hiring challenge, to include the script tha
 
 Once this is created, access the Dashboard from your Dashboard List in the UI:
 
-* Set the Timeboard's timeframe to the past 5 minutes
+* Set the Timeboard's timeframe to the past 15 minutes
 * Take a snapshot of this graph and use the @ notation to send it to yourself.
 * **Bonus Question**: What is the Anomaly graph displaying?
 
