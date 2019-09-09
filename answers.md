@@ -189,7 +189,7 @@ The dashboard I created can be viewed at https://app.datadoghq.com/dashboard/u7q
 
 ![](/Users/suzannechiles/Desktop/datadog test/scripted-timeboard.jpg)
 
-I experimented with several types of widgets, so you’ll see a few extra options.
+I experimented with several types of widgets, so you’ll see some extra widgets.
 
 ## Create a timecard
 
